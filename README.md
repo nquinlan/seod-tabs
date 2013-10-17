@@ -5,6 +5,8 @@ To the best of my knowledge this sample code will split the difference, serving 
 
 Although I use tabs here, there's no reason it won't work using a different navigation strategy.
 
+**[You can view a demo of this on Github Pages](http://nquinlan.github.io/seod-tabs/)**
+
 Some examples of websites who have used a similar strategy are:
 
 - [Twitter.com](http://twitter.com)
