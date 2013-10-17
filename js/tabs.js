@@ -9,8 +9,6 @@ $(function () {
 		var contentDestination = $(this).attr("href");
 		var $target = $(this);
 		$.get("content/" + contentName + ".json", null, function (content) {
-			console.log($target, contentName, contentDestination);
-
 			// Change the content
 			$("#content").html(content.content);
 
